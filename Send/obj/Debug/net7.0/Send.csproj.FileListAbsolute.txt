@@ -1,0 +1,17 @@
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\Send.exe
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\Send.deps.json
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\Send.runtimeconfig.json
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\Send.dll
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\Send.pdb
+C:\Users\d.karyakin\Desktop\Project\Send\Send\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.dll
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\refint\Send.dll
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.pdb
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\Send.genruntimeconfig.cache
+C:\Users\d.karyakin\Desktop\Project\Send\Send\obj\Debug\net7.0\ref\Send.dll

@@ -1,0 +1,17 @@
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\Recieve.exe
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\Recieve.deps.json
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\Recieve.runtimeconfig.json
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\Recieve.dll
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\Recieve.pdb
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.csproj.AssemblyReference.cache
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.AssemblyInfoInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.AssemblyInfo.cs
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.csproj.CoreCompileInputs.cache
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.csproj.CopyComplete
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.dll
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\refint\Recieve.dll
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.pdb
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\Recieve.genruntimeconfig.cache
+C:\Users\d.karyakin\Desktop\Project\Recieve\Recieve\obj\Debug\net7.0\ref\Recieve.dll
